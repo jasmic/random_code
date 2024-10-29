@@ -1,6 +1,6 @@
 #https://www.wikihow.com/Find-Initial-Velocity
 
-#This is what happens when you challeng a student to bring a formula to the lesson that they have used in a different subject!
+#This is what happens when you challenge a student to bring a formula to the lesson that they have used in a different subject!
 
 #1- If you have values for the final velocity, acceleration, and time involved, use Vi = Vf - (a * t)
 #2- If you know values for the distance, time, and acceleration, use Vi = (d / t) - [(a * t) / 2]
